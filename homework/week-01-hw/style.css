@@ -4,7 +4,8 @@ body {
 }
 
 div {
-	width: 400px;
+	width: 600px;
+	background-color: gray;
 }
 
 h1 {
