@@ -5,12 +5,14 @@ body {
 img {
 	margin: 0 auto;
 	padding: 10px;
+	border-color: white;
+	border-radius: 12px;
 }
 
 div { 
 	width: 650px;
 	padding: 10px;
-	background-color: white;
+	background-color: #E0E0E0;
 	color: black;
 	margin: 0 auto;
 	position: relative;
