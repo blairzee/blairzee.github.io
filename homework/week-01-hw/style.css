@@ -39,8 +39,16 @@ ul {
 	list-style-type: none;
 }
 
+.resume {
+	list-style-type: square;
+}
+
 li {
 	display: inline;
+}
+
+.bullet {
+	text-align: left;
 }
 
 h1 {
