@@ -7,16 +7,22 @@ img {
 	padding: 10px;
 }
 
-.flowers {
-	display: inline;
-	margin: 0 auto;
-}
-
 div { 
 	width: 650px;
 	padding: 10px;
 	background-color: white;
 	color: black;
+	margin: 0 auto;
+}
+
+.flowers {
+	display: inline;
+	margin: 0 auto;
+}
+
+.nav {
+	display: inline;
+	padding: 5px;
 	margin: 0 auto;
 }
 	
