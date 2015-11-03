@@ -11,19 +11,12 @@ div {
 	position: relative;
 }
 
-.flower {
-	width: 650px;
-	display: inline;
-	padding: 5px;
-	margin: 0 auto;
-}
-
 .nav {
 	background-color: orange;
 	font-family: Georgia;
 	color: white;
 	text-align: right;
-	height: 30px;
+	height: 20px;
 	word-spacing: 30px;
 }
 
@@ -39,16 +32,8 @@ ul {
 	list-style-type: none;
 }
 
-.resume {
-	list-style-type: square;
-}
-
 li {
 	display: inline;
-}
-
-.bullet {
-	text-align: left;
 }
 
 h1 {
