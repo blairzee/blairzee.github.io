@@ -29,6 +29,7 @@ div {
 .name {
 	background-color: white;
 	width: 650px;
+	text-align: center;
 }
 
 a {
