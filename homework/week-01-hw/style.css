@@ -40,6 +40,7 @@ li {
 
 h1 {
 	text-align: center;
+	background-color: white;
 	font-family: 'Playfair Display', serif;
 	font-weight: bold;
 	font-size: 50px;
@@ -51,6 +52,7 @@ h1 {
 
 h2 {
 	text-align: center;
+	background-color: white;
 	font-family: 'Fauna One', serif;
 	font-size: 20px;
 	color: #6B8199;
