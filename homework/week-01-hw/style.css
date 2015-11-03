@@ -2,6 +2,11 @@ body {
 	color: black;
 }
 
+img {
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
 div { 
 	width: 650px;
 	padding: 10px;
