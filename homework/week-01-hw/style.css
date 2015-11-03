@@ -26,6 +26,11 @@ div {
 	text-align: center;
 }
 
+.name {
+	background-color: white;
+	width: 650px;
+}
+
 a {
 	color: white;
 }
@@ -40,7 +45,6 @@ li {
 
 h1 {
 	text-align: center;
-	width: 650px;
 	background-color: white;
 	font-family: 'Playfair Display', serif;
 	font-weight: bold;
@@ -53,7 +57,6 @@ h1 {
 
 h2 {
 	text-align: center;
-	width: 650px;
 	background-color: white;
 	font-family: 'Fauna One', serif;
 	font-size: 20px;
