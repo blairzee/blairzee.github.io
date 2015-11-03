@@ -12,6 +12,7 @@ div {
 }
 
 #flower {
+	width: 650px;
 	display: inline;
 	padding: 5px;
 	margin: 0 auto;
