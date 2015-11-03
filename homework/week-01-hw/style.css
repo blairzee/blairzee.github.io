@@ -11,7 +11,7 @@ div {
 	position: relative;
 }
 
-#flower img {
+#flower {
 	display: inline;
 	padding: 5px;
 	margin-left: auto;
