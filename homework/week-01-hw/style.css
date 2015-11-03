@@ -9,6 +9,11 @@ div {
 	color: black;
 	margin: 0 auto;
 }
+
+img {
+	width: 100px;
+	height: 150px;
+}
 	
 
 h1 {
