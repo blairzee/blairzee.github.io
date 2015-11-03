@@ -10,19 +10,10 @@ div {
 	position: relative;
 }
 
-.pics {
-	position: relative;
-	margin: 20px 0 0 0;
+ul {
+	display: inline;
 }
 
-img {
-	margin: 0 auto;
-	padding: 10px;
-	border-color: white;
-	border-width: 5px;
-	border-radius: 12px;
-}
-	
 h1 {
 	text-align: center;
 	font-family: Georgia;
