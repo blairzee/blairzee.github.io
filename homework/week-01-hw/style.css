@@ -2,13 +2,6 @@ body {
 	color: black;
 }
 
-img {
-	margin: 0 auto;
-	padding: 10px;
-	border-color: white;
-	border-radius: 12px;
-}
-
 div { 
 	width: 650px;
 	padding: 10px;
@@ -16,6 +9,14 @@ div {
 	color: black;
 	margin: 0 auto;
 	position: relative;
+}
+
+img {
+	margin: 0 auto;
+	padding: 10px;
+	border-color: white;
+	border-width: 5px;
+	border-radius: 12px;
 }
 	
 h1 {
@@ -30,5 +31,5 @@ p {
 	font-family: Georgia;
 	font-size: 14px;
 	color: black;
-	line-height: 15px;
+	line-height: 16px;
 }
