@@ -8,6 +8,11 @@ img {
 	padding: -10px;
 }
 
+.flowers {
+	display: inline;
+	margin: 0 auto;
+}
+
 div { 
 	width: 650px;
 	padding: 10px;
