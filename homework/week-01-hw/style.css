@@ -5,10 +5,14 @@ body {
 div { 
 	width: 650px;
 	padding: 10px;
-	background-color: #E0E0E0;
 	color: black;
 	margin: 0 auto;
 	position: relative;
+}
+
+.pic {
+	position: relative;
+	margin: 70px 0 0 0;
 }
 
 img {
