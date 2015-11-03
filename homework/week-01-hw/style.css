@@ -16,7 +16,6 @@ div {
 	display: inline;
 	padding: 5px;
 	margin: 0 auto;
-	position: relative;
 }
 
 .nav {
@@ -26,6 +25,10 @@ div {
 	text-align: right;
 	height: 30px;
 	word-spacing: 30px;
+}
+
+.center {
+	text-align: center;
 }
 
 a {
