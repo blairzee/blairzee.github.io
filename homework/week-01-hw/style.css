@@ -10,8 +10,8 @@ div {
 	position: relative;
 }
 
-ul {
-	display: inline-block;
+div.img_holder img {
+	float: left;
 }
 
 h1 {
