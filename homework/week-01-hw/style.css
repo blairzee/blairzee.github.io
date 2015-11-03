@@ -21,6 +21,8 @@ div {
 	background-color: orange;
 	font-family: Georgia;
 	color: white;
+	text-align: right;
+	height: 30px;
 }
 
 a {
