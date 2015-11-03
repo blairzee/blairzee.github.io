@@ -12,7 +12,7 @@ div {
 }
 
 .nav {
-	background-color: orange;
+	background-color: #4CFFFD;
 	font-family: Georgia;
 	color: white;
 	text-align: right;
@@ -42,7 +42,7 @@ h1 {
 	font-weight: bold;
 	font-size: 50px;
 	line-height: 60px;
-	color: #FF880D;
+	color: #2978CC;
 	margin-top: 10px;
 	margin-bottom: 0px;
 }
@@ -51,7 +51,7 @@ h2 {
 	text-align: center;
 	font-family: 'Fauna One', serif;
 	font-size: 20px;
-	color: #CC9E1F;
+	color: #6B8199;
 	line-height: 22px;
 	margin-top: 0px;
 	margin-bottom: 0px;
