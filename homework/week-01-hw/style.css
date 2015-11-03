@@ -5,6 +5,20 @@ body {
 header {
 	background-color: #E0E0E0;
 	color: black;
+	padding: 5px;
+}
+
+nav {
+	background color: #E0E0E0;
+	width: 100px;
+	float: left;
+	padding: 5px;
+}
+
+section {
+	width: 300px;
+	float: right;
+	padding: 10px;
 }
 
 img {
