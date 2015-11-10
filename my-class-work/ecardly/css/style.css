@@ -1,0 +1,41 @@
+body {
+	background-image: url(../images/background.jpg);
+}
+
+.blog {
+	background-color: #ffffff;
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px 10px;
+}
+
+.image-wrapper {
+	text-align: center;
+}
+
+p.time-stamp {
+	color: #000000;
+	border-top: black 1px dashed;
+	border-bottom: black 2px solid;
+	padding: 5px;
+}
+
+a {
+	color: red;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+p.article, p.time-stamp {
+	color: #000000;
+	font-family: Arial;
+	font-size: 12px;
+	line-height: 20px;
+	width: 800px;
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 20px;
+}

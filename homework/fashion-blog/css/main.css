@@ -1,0 +1,84 @@
+body {
+	background-color: #dddddd;
+	font-family: Lato;
+}
+
+.main {
+	background-color: white;
+	width: 720px;
+	border-left: 6px solid #DDDDDD;
+	padding: 54px;
+}
+
+.content {
+	font-family: Lato;
+	line-height: 1.5;
+	color: black;
+}
+
+.footer {
+	color: #bbbbbb;
+}
+
+h1, h2, h3, h4, p {
+	font-family: Lato;
+	line-height: 1.5;
+}
+
+h1 {
+	font-family: Lato;
+	color: #DD0000;
+	margin: 0px;
+	padding: 20px 0 0 0;
+	font-weight: none;
+}
+
+img {
+	width: 720px;
+}
+
+h2 {
+	color: #CCCCCC;
+	padding: 25px 0 0 0;
+	margin: 0px;
+}
+
+h3 {
+	padding: 0px;
+	margin: 0px;
+}
+
+h4 {
+	color: black;
+	padding: 0 0 10px 0;
+	margin: 0px;
+}
+
+.nav1 a {
+	font-family: Lato;
+	color: #DDDDDD;
+	text-decoration: underline;
+}
+
+.nav1 a:hover {
+	color: black;
+}
+
+.nav2 a {
+	font-family: Lato;
+	color: #DD0000;
+	text-decoration: none;
+}
+
+.continue {
+	text-align: right;
+}
+
+.continue a {
+	color: #DD0000;
+	font-family: Lato;
+	line-height: 1.5;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+}
