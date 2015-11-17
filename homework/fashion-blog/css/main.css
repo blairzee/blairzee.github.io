@@ -54,13 +54,13 @@ h4 {
 	margin: 0px;
 }
 
-.nav1 a {
+.nav1 a { /* nice use of a more specific selector*/
 	font-family: Lato;
 	color: #DDDDDD;
 	text-decoration: underline;
 }
 
-.nav1 a:hover {
+.nav1 a:hover { /* nice use of pseudo slector */
 	color: black;
 }
 
@@ -78,7 +78,8 @@ h4 {
 	color: #DD0000;
 	font-family: Lato;
 	line-height: 1.5;
-	text-decoration: none;
+	text-decoration: none; /* way to get rid of those underlines */
 	font-weight: bold;
 	text-align: right;
 }
+/*Great structure, nicely indented and readable. Nice work!*/

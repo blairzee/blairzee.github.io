@@ -9,15 +9,16 @@
 	</head>
 
 	<body>
-	<div id="container">
+	<div id="container">  <!-- Since this div is wrapped by the body tag it needs be more indented that the body tag-->
 		
-	<div class="main">
+	<div class="main"> <!-- This div should be indented further than it's parent div-->
 			
-	<h1>Sartres List</h1>
+	<h1>Sartres List</h1> <!-- this h1 should be indented to show that it is a child <div class="main"> -->
 				
-		<h4>Better-Dressed People</h4>
+		<h4>Better-Dressed People</h4> <!-- This h4 has proper indentation, nice job! -->
 					
-			<div class="nav1">
+			<div class="nav1"> <!-- this div is a sibling of the h4 above and should have the same indentation -->
+				<!-- nice job indenting the a tags below -->
 				<a href="#">Womens</a>
 				<a href="#">Mens</a>
 				<a href="#">On the Street</a>
@@ -28,9 +29,9 @@
 
 		<h2>11/12/13</h2>
 					
-			<h3>On the Street in Brooklyn</h3>
+			<h3>On the Street in Brooklyn</h3> <!-- sibling of h2 - needs same indentation -->
 						
-				<div class="image-wrapper">
+				<div class="image-wrapper"> <!-- sibling of h3 - needs same indentation -->
 					<img src="img/fashion_photo.jpeg">
 				</div>
 							
@@ -65,3 +66,17 @@
 		</div>		
 	</body>
 </html>
+<!-- great work, just need to fix indentation
+  sibling elemnts need to have the same indentation,
+  parent need to be less indented than their children
+	for example:
+  <div class="wrapper">
+  	<h1>Title</h1>
+  	<h2>Title</h2>
+    <ul>
+      <li>li1</li>
+      <li>li2</li>
+    </ul>
+   </div>
+   everything else looks great!
+   -->
