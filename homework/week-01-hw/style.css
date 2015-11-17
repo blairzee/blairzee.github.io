@@ -14,7 +14,7 @@ div {
 }
 
 .nav {
-	background-color: #6B8199;
+	background-color: #6B8199; /* nice use of hex color codes */
 	font-family: Georgia;
 	color: white;
 	text-align: right;
@@ -47,7 +47,7 @@ li {
 h1 {
 	text-align: center;
 	background-color: white;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display', serif; /* nice use of fallback font in case Playfair Display is not available in browser*/
 	font-weight: bold;
 	font-size: 50px;
 	line-height: 60px;
@@ -59,7 +59,7 @@ h1 {
 h2 {
 	text-align: center;
 	background-color: white;
-	font-family: 'Fauna One', serif;
+	font-family: 'Fauna One', serif; /* nice use of fallback font in case Fauna One is not available in browser*/
 	font-size: 20px;
 	color: #6B8199;
 	line-height: 22px;
@@ -86,3 +86,4 @@ p {
 	line-height: 18px;
 
 }
+/*great indentation and nice use of element and class selectors*/
