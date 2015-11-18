@@ -79,9 +79,10 @@ nav a {
 
 .greeting {
 	background: rgba(255,255,255,.8);
-	width: 34%;
+	width: 400px;
+	height: 350px;
 	margin: 0 auto;
-	padding: 50px 50px;
+	padding: 20px 20px;
 	float: right;
 	box-shadow: 0 0 5px rgba(0,0,0,.75);
 }
