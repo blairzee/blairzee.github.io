@@ -1,0 +1,28 @@
+body {
+	font-family: Georgia, serif;
+	font-size: 14px;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 54px;
+	color: #E93826;
+	text-align: center;
+	line-height: 30px;
+	padding: -10px;
+}
+
+p {
+	text-align: center;
+}
+
+img {
+	border: 8px solid #192758;
+	border-radius: 20px;
+	padding: 0px;
+}
+
+.imagewrapper {
+	width: 414px;
+	margin: 0 auto;
+}
