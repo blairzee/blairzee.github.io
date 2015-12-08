@@ -1,3 +1,5 @@
+// Maybe name this function something more semantic like convert
+// Great job passing variables into the function. You are ahead of the curve!
 var report = function (celsius, fahrenheit) {
     document.getElementById("result").innerHTML =
         celsius + "\xb0C = " + fahrenheit + "\xb0F";
@@ -12,3 +14,5 @@ document.getElementById("c_to_f").onclick = function () {
     var c = document.getElementById("temperature").value;
     report(c, 1.8 * c + 32);
 };
+
+// Overall a super great job on this! Like your image and styling and great job with javascript.
